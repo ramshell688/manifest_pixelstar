@@ -12,4 +12,7 @@
 
   <!-- Track LineageOS repos -->
   <include name="snippets/lineage.xml" />
+
+  <!-- Track Peridot repos -->
+  <include name="snippets/peridot.xml" />
 </manifest>
