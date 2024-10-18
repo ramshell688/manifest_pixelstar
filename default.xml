@@ -1479,4 +1479,7 @@
   <!-- Lineage repos -->
   <include name="snippets/lineage.xml" />
 
+  <!-- Track SM8650 repos -->
+  <include name="snippets/peridot.xml" />
+
 </manifest>
