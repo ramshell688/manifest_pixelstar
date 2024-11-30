@@ -59,7 +59,6 @@
   <project path="packages/overlays/Themes" name="packages_overlays_Themes" remote="pixelstar" />
   <project path="packages/apps/Updater" name="packages_apps_Updater" remote="pixelstar" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="pixelstar" />
-  <project path="packages/apps/Pif" name="packages_apps_Pif" remote="pixelstar" />
   <project path="packages/modules/Wifi" name="packages_modules_Wifi" remote="pixelstar" />
   <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" remote="pixelstar" />
   <project path="packages/modules/Connectivity" name="packages_modules_Connectivity" groups="pdk" remote="pixelstar" />
@@ -132,10 +131,6 @@
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy" revision="14-legacy-um" remote="pixelstar" />
   <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" revision="14-qpr3" remote="pixelstar"/>
 
-  <!-- General repos -->
-  <project path="vendor/certification" name="vendor_certification" remote="pixelstar" />
-  <project path="vendor/custom" name="vendor_custom" remote="pixelstar" />
-
   <!-- Vendor repos -->
   <project path="vendor/google/pixel-framework" name="vendor_google_pixel-framework" remote="pixelstar" />
   <project path="vendor/google/gms" name="vendor_google_gms" remote="pixelstar-gitlab" />
@@ -144,6 +139,7 @@
   <project path="vendor/pixelstar" name="vendor_pixelstar" remote="pixelstar" />
   <project path="vendor/microsoft/mms" name="vendor_microsoft_mms" remote="pixelstar-gitlab" />
   <project path="vendor/apps" name="vendor_apps" remote="pixelstar-gitlab" />
+  <project path="vendor/custom" name="vendor_custom" remote="pixelstar" />
 
   <!-- ProtonAosp -->
   <project path="packages/apps/RepainterServicePriv" name="kdrag0n/android_packages_apps_RepainterServicePriv" revision="main" remote="github" />
