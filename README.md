@@ -3,7 +3,7 @@
 PixelStar
 ===========
 
-[**Download**](https://www.pling.com/p/2066696)
+[**Download**](https://sourceforge.net/projects/pixelstar/files/)
 
 ## Things that will help you getting started ##
 - [Pixelstar-devices](https://github.com/pixelstar-devices)
@@ -15,7 +15,11 @@ PixelStar
 ### Sync ###
 
 ```bash
-git lfs install && repo init -u https://github.com/Project-PixelStar/manifest -b 14-qpr3 --git-lfs && repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+git lfs install
+
+repo init -u https://github.com/Project-PixelStar/manifest -b 14-qpr3 --git-lfs
+
+repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
 ### Build ###
 
