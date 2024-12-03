@@ -75,6 +75,8 @@
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="pixelstar" />
   <project path="packages/modules/IntentResolver" name="packages_modules_IntentResolver" groups="pdk,sysui-studio" remote="pixelstar" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="pixelstar" />
+  <project path="packages/modules/Permission" name="packages_modules_Permission" groups="pdk-cw-fs,pdk-fs" remote="pixelstar"/>
+  <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" remote="pixelstar"/>
 
   <!-- External repos -->
   <project path="external/arm-trusted-firmware" name="external_arm-trusted-firmware" remote="pixelstar" />
