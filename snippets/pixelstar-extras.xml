@@ -23,6 +23,5 @@
   <project path="vendor/google/dexopt_profiles" name="vendor_google_dexopt_profiles" remote="tpp-gitlab" />
   <project path="vendor/google/interfaces" name="vendor_google_interfaces" remote="pixelstar" />
   <project path="vendor/google/mainline_modules" name="vendor_google_mainline_modules" remote="pixelstar" />
-  <project path="vendor/google/pixel-additional" name="vendor_google_pixel-additional" remote="pixelstar" />
   <project path="vendor/google/ThemeIcons" name="vendor_google_ThemeIcons" remote="pixelstar" />
 </manifest>

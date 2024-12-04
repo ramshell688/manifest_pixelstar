@@ -134,7 +134,6 @@
   <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" revision="14-qpr3" remote="pixelstar"/>
 
   <!-- Vendor repos -->
-  <project path="vendor/google/pixel-framework" name="vendor_google_pixel-framework" remote="pixelstar" />
   <project path="vendor/google/gms" name="vendor_google_gms" remote="pixelstar-gitlab" />
   <project path="vendor/custom-preference" name="vendor_custom-preference" remote="pixelstar" />
   <project path="vendor/official_devices" name="official_devices" remote="pixelstar" revision="14"/>
